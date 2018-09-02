@@ -1,5 +1,5 @@
-main: de.tr7zw.entlib.EntityLib
+main: de.tr7zw.entitylib.EntityLib
 name: EntityLib
-version: 0.0.1
+version: ${project.version}
 author: tr7zw
 depend: [ProtocolLib, ItemNBTAPI]
